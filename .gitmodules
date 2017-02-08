@@ -1,6 +1,6 @@
 [submodule "vendor/include"]
 	path = vendor/include
-	url = git://github.com/theos/headers.git
+	url = git://github.com/mody1996/headers.git
 [submodule "vendor/lib"]
 	path = vendor/lib
-	url = git://github.com/theos/lib.git
+	url = git://github.com/mody1996/lib.git
